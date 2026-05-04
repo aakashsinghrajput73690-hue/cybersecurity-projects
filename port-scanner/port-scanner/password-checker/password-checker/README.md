@@ -1,2 +1,2 @@
-# Password Checker
-Checks strength of passwords using security rules.
+# Encryption Tool
+Encrypt and decrypt files using Python.
